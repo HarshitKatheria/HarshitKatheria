@@ -48,6 +48,6 @@ I'm always open to connecting with fellow data enthusiasts, discussing potential
 
 ## My Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitKatheria&show_icons=true&theme=dark)](https://github.com/HarshitKatheria)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshuuuuuuuu&show_icons=true&theme=dark)](https://github.com/harshuuuuuuuu)
 
 Thank you for visiting my profile! Let's dive into the world of data together! 🚀
